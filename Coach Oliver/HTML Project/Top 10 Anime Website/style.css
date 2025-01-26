@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #d9edff;
+    color:#22223B;
+}
+img{
+    width: 800px;
+    border-radius: 50px;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
